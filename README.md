@@ -1,0 +1,4 @@
+FinalScore
+==========
+
+Sistema de pontuação
